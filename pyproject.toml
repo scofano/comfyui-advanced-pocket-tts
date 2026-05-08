@@ -11,6 +11,6 @@ Repository = "https://github.com/scofano/ComfyUI-Pocket-TTS-V2"
 Original = "https://github.com/ai-joe-git/ComfyUI-Pocket-TTS"
 
 [tool.comfy]
-PublisherId = "scofano"
+PublisherId = "dansco"
 DisplayName = "Advanced Pocket TTS"
 Icon = ""
