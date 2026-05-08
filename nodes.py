@@ -142,7 +142,7 @@ class PocketTTSClone:
                                              "tooltip": "Extra frames after speech ends (~80ms each). 0 = let model decide."}),
                 "quantize": ("BOOLEAN", {"default": False,
                                          "tooltip": "Use int8 quantization for lower memory usage and faster inference."}),
-                "truncate": ("BOOLEAN", {"default": False,
+                "truncate": ("BOOLEAN", {"default": True,
                                          "tooltip": "Truncate reference audio to 30 seconds before voice conditioning."}),
             },
         }
