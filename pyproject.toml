@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-advanced-pocket-tts"
 description = "Advanced CPU-based Text-to-Speech nodes for ComfyUI with full parameter control. Forked from ai-joe-git/ComfyUI-Pocket-TTS. Supports temperature, decode steps, EOS threshold, quantization, voice cloning, and 13 language models."
-version = "1.0.3"
+version = "1.0.4"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
 dependencies = []
